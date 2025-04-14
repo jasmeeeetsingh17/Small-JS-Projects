@@ -1,0 +1,63 @@
+body {
+    font-family: 'Segoe UI';
+    background-color: #c0bebe;
+}
+
+img {
+    height: 3em;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: #edede9;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+img:hover {
+    background-color: #f5ebe0;
+}
+
+h1 {
+    text-align: center;
+    margin: 1em;
+}
+
+.main-cont {
+    text-align: center;
+    font-size: 1.4em;
+
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+}
+
+.button-container {
+    text-align: center;
+}
+
+.reset-btn {
+    padding: 3px;
+    border-radius: 5px;
+    border: none;
+    margin: 14px;
+    height: 36px;
+    width: 92px;
+    color: white;
+    background-color: black;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+#score {
+    font-weight: bold;
+}
+
+#computer-score {
+    font-weight: bold;
+}
+
+#hint {
+    font-weight: bold;
+}
