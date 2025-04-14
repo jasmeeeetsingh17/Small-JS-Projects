@@ -5,7 +5,9 @@ This repository contains basic JavaScript projects built using **HTML**, **CSS**
 
 - Age Calculator
 - Number Guessing Game
+- Rock Paper Scissors Game 
 - To-do List
+- 
 
 ## Technologies Used
 
