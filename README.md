@@ -7,7 +7,7 @@ This repository contains basic JavaScript projects built using **HTML**, **CSS**
 - Number Guessing Game
 - Rock Paper Scissors Game 
 - To-do List
-- 
+
 
 ## Technologies Used
 
