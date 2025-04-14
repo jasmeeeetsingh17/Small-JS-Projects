@@ -49,7 +49,6 @@ const check = (userSelection) => {
 const reset = () => {
     score = 0;
     computer_score = 0;
-
     user_score.innerText = `Your Score is ${score}`;
     computer_scores.innerText = `Computer Score is ${computer_score}`;
     let newElement = document.querySelector('#hint');
